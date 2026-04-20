@@ -1,4 +1,4 @@
-# The following projects showcase my expertise in Excel, specifically in transforming raw data into actionable business analysis.
+# Excel Projects
 
 | Project Name | Description |
 | :--- | :--- |
